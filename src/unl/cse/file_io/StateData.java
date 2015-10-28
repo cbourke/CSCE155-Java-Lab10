@@ -16,7 +16,7 @@ public class StateData {
     
     /* Name of the file to be read */
     private String fileName;
-    private final String outputFile = "stateData.dat";
+    private final String outputFile = "data/stateData.dat";
 
     /* Arrays to hold state name data and population data */
     private String[] states = new String[NUM_STATES];
