@@ -63,7 +63,7 @@ At the end of this lab you should be familiar with the following
 
 # Background
 
-The life span of most program is short--measured in seconds or
+The life span of most programs is short--measured in seconds or
 microseconds. For data to be useful, it needs to last beyond the typical
 program. This is known as data persistence. One mechanism for persisting
 data is to store it in a file. Files can generally consist of raw binary
